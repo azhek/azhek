@@ -4,6 +4,20 @@ html,body
     height: 100%;
 }
 
+h1
+{
+    font-size: 60px;
+    text-align: center;
+}
+
+.banniere
+{
+    background-image: url("../img/banniere2.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+
+}
+
 .navbar {
     background-color: #9ce819;
 }
