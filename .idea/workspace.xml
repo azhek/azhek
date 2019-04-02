@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da1f1373-aca4-4883-9086-3d4f6af5655f" name="Default Changelist" comment="banniere1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="da1f1373-aca4-4883-9086-3d4f6af5655f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -17,8 +16,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+            <state relative-caret-position="301">
+              <caret line="35" column="52" lean-forward="true" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
               </folding>
@@ -29,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="392">
+              <caret line="155" column="1" selection-start-line="155" selection-start-column="1" selection-end-line="155" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -118,7 +117,7 @@
       <workItem from="1554148125652" duration="61000" />
       <workItem from="1554148293484" duration="11000" />
       <workItem from="1554148305912" duration="3653000" />
-      <workItem from="1554234562156" duration="6616000" />
+      <workItem from="1554234562156" duration="9223000" />
     </task>
     <task id="LOCAL-00001" summary="NavBar">
       <created>1554151180469</created>
@@ -141,19 +140,27 @@
       <option name="project" value="LOCAL" />
       <updated>1554241786177</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="bannierefonctionnoncentre">
+      <created>1554243177331</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554243177331</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19936000" />
+    <option name="totallyTimeSpent" value="22543000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2543624" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2543624" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -201,13 +208,14 @@
     <MESSAGE value="NavBar" />
     <MESSAGE value="NavBar2" />
     <MESSAGE value="banniere1" />
-    <option name="LAST_COMMIT_MESSAGE" value="banniere1" />
+    <MESSAGE value="bannierefonctionnoncentre" />
+    <option name="LAST_COMMIT_MESSAGE" value="bannierefonctionnoncentre" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        <state relative-caret-position="301">
+          <caret line="35" column="52" lean-forward="true" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
           </folding>
@@ -216,8 +224,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="392">
+          <caret line="155" column="1" selection-start-line="155" selection-start-column="1" selection-end-line="155" selection-end-column="1" />
         </state>
       </provider>
     </entry>
