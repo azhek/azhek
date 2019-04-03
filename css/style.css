@@ -22,6 +22,7 @@ h1
 
 .textHauteur
 {
+
     padding-top: 100px;
 }
 
@@ -29,6 +30,20 @@ h1
 {
     padding-top: 350px;
 }
+
+@media only screen and (max-width: 480px)
+{
+    .textHauteur
+    {
+        padding-top: 0px;
+    }
+
+    .textHauteurMission
+    {
+        padding-top : 0px;
+    }
+}
+
 
 .textBlanc
 {
