@@ -15,17 +15,40 @@ h1
     background-image: url("../img/banniere2.jpg");
     height: 100%;
     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
 }
 
 .textHauteur
 {
     padding-top: 100px;
-    margin-bottom: 100px;
+}
+
+.textHauteurMission
+{
+    padding-top: 350px;
 }
 
 .textBlanc
 {
     color: white;
+}
+
+.textJaune
+{
+    color: yellow;
+    font-weight: bold;
+}
+
+.parallax1
+{
+    background-image: url("../img/fond.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .navbar {
