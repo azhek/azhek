@@ -106,6 +106,10 @@ h1
     background-size: cover;
 }
 
+.fa_color
+{
+    color:blue;
+}
 .navbar {
     background-color: #79e998;
 }
