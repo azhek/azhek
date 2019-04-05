@@ -17,7 +17,18 @@ h1
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+}
 
+@media only screen and (max-width: 480px)
+{
+    .banniere
+    {
+        background-image: url("../img/banniere.jpg");
+        height: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
 }
 
 .textHauteur
@@ -50,6 +61,11 @@ h1
     color: white;
 }
 
+.textNoir
+{
+    color:black;
+}
+
 .backgroundNoir
 {
     background-color: black;
@@ -64,6 +80,16 @@ h1
 .parallax1
 {
     background-image: url("../img/fond.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2
+{
+    background-image: url("../img/parallax2.jpg");
     height: 100%;
     background-attachment: fixed;
     background-position: center;
